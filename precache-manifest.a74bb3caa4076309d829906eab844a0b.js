@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f24df70a53ae799d791eda2c47dafe9d",
+    "revision": "23370bf21b7ebb73df5c98978c6cf277",
     "url": "/matesfeed/index.html"
   },
   {
-    "revision": "43d7e1afa4a8897fab95",
+    "revision": "709e6e6960ae781df052",
     "url": "/matesfeed/static/css/2.b63eaa2c.chunk.css"
   },
   {
-    "revision": "803024fe8cf583f5b5f8",
+    "revision": "e94d0448344532a7fd7e",
     "url": "/matesfeed/static/css/main.d5c37166.chunk.css"
   },
   {
-    "revision": "43d7e1afa4a8897fab95",
-    "url": "/matesfeed/static/js/2.8acf1b8d.chunk.js"
+    "revision": "709e6e6960ae781df052",
+    "url": "/matesfeed/static/js/2.b58d2aa4.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/matesfeed/static/js/2.8acf1b8d.chunk.js.LICENSE.txt"
+    "url": "/matesfeed/static/js/2.b58d2aa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "803024fe8cf583f5b5f8",
-    "url": "/matesfeed/static/js/main.90217370.chunk.js"
+    "revision": "e94d0448344532a7fd7e",
+    "url": "/matesfeed/static/js/main.1e5dd171.chunk.js"
   },
   {
     "revision": "f53eaf33981ae0ad9ac0",
