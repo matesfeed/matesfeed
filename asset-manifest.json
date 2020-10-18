@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/matesfeed/static/css/main.d5c37166.chunk.css",
-    "main.js": "/matesfeed/static/js/main.7b898ee0.chunk.js",
-    "main.js.map": "/matesfeed/static/js/main.7b898ee0.chunk.js.map",
+    "main.js": "/matesfeed/static/js/main.db269f51.chunk.js",
+    "main.js.map": "/matesfeed/static/js/main.db269f51.chunk.js.map",
     "runtime-main.js": "/matesfeed/static/js/runtime-main.189501fd.js",
     "runtime-main.js.map": "/matesfeed/static/js/runtime-main.189501fd.js.map",
     "static/css/2.b63eaa2c.chunk.css": "/matesfeed/static/css/2.b63eaa2c.chunk.css",
     "static/js/2.6abf7287.chunk.js": "/matesfeed/static/js/2.6abf7287.chunk.js",
     "static/js/2.6abf7287.chunk.js.map": "/matesfeed/static/js/2.6abf7287.chunk.js.map",
     "index.html": "/matesfeed/index.html",
-    "precache-manifest.cc6dc0e4c5fd042f4b5b387117f28618.js": "/matesfeed/precache-manifest.cc6dc0e4c5fd042f4b5b387117f28618.js",
+    "precache-manifest.0f4dc294adab9f9e1b1dddd145e510be.js": "/matesfeed/precache-manifest.0f4dc294adab9f9e1b1dddd145e510be.js",
     "service-worker.js": "/matesfeed/service-worker.js",
     "static/css/2.b63eaa2c.chunk.css.map": "/matesfeed/static/css/2.b63eaa2c.chunk.css.map",
     "static/css/main.d5c37166.chunk.css.map": "/matesfeed/static/css/main.d5c37166.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b63eaa2c.chunk.css",
     "static/js/2.6abf7287.chunk.js",
     "static/css/main.d5c37166.chunk.css",
-    "static/js/main.7b898ee0.chunk.js"
+    "static/js/main.db269f51.chunk.js"
   ]
 }

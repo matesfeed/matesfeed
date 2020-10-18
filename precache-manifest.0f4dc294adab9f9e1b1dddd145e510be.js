@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90deef1af7aa76ad56c7f5d60351ce1b",
+    "revision": "882ef8e6058174614e23ae4592ea855d",
     "url": "/matesfeed/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matesfeed/static/css/2.b63eaa2c.chunk.css"
   },
   {
-    "revision": "15c9c5a11bc8ae1f0dfe",
+    "revision": "7174f3b965d79a81ba1a",
     "url": "/matesfeed/static/css/main.d5c37166.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matesfeed/static/js/2.6abf7287.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15c9c5a11bc8ae1f0dfe",
-    "url": "/matesfeed/static/js/main.7b898ee0.chunk.js"
+    "revision": "7174f3b965d79a81ba1a",
+    "url": "/matesfeed/static/js/main.db269f51.chunk.js"
   },
   {
     "revision": "f53eaf33981ae0ad9ac0",
